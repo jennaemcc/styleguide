@@ -454,7 +454,7 @@ select {
     border: 1px solid #D1D1D1;
     border-radius: 4px;
     box-shadow: none;
-    width: 96;
+    width: 96%;
 }
 input[type="email"],
 input[type="number"],
@@ -548,7 +548,7 @@ td:last-child {
 ---------------------------------------------------------------- */
 .tab {
     overflow: hidden;
-    border-bottom: 1px solid #CCC;
+    border-bottom: 1px solid #ccc;
 }
 .tab button {
     background-color: #EEEEEE;
